@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, 👋
 
 I am an experienced software engineer who specializes in developing web applications using Ruby on Rails (RoR), Golang, and JavaScript. I am also a blockchain developer with experience developing and writing Smart Contracts and protocols for Blockchain. My skills include writing clean, maintainable, and efficient code to develop robust and scalable web applications that meet the needs of clients. I have expertise in using both front-end and back-end technologies, and I am familiar with various JavaScript frameworks and libraries such as React, Angular, Vue, etc.
 
